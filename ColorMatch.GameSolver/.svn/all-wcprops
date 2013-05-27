@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5/trunk/ColorMatch.GameSolver
+END
+BoardMover.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/ColorMatch.GameSolver/BoardMover.cs
+END
+GameSolver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5/trunk/ColorMatch.GameSolver/GameSolver.cs
+END
+ColorMatch.GameSolver.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/ColorMatch.GameSolver/ColorMatch.GameSolver.csproj
+END
